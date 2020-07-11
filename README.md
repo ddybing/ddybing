@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently studying at University of Agder 🎓
+
 <!--
 **ddybing/ddybing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
