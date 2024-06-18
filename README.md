@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Currently studying at University of Agder 🎓
+I have finished my Computer Engineering studies at University of Agder  🎓
+and I am now eager to apply my knowledge in real-world projects. 🔭
 
 <!--
 **ddybing/ddybing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
